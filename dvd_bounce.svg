@@ -17,7 +17,7 @@
       <animateTransform
         attributeName="transform"
         type="translate"
-        values="0,0; 400,0; 0,0"
+        values="0,0; 480,0; 0,0"
         dur="6s"
         repeatCount="indefinite" />
 
@@ -26,7 +26,7 @@
         attributeName="transform"
         type="translate"
         additive="sum"
-        values="0,0; 0,180; 0,0"
+        values="0,0; 0,250; 0,0"
         dur="4s"
         repeatCount="indefinite" />
 
