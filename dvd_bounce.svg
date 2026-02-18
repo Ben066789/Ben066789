@@ -11,9 +11,9 @@
   </defs>
 
   <g transform="scale(0.2)">
-
     <g filter="url(#glow)">
 
+      <!-- Perfect bounce X -->
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -21,6 +21,7 @@
         dur="6s"
         repeatCount="indefinite" />
 
+      <!-- Perfect bounce Y -->
       <animateTransform
         attributeName="transform"
         type="translate"
