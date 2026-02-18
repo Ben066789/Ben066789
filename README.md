@@ -3,4 +3,4 @@
 
 
 <img src="./smiley-emoji.gif" width="500" />
-<marquee> marquee test!! <marquee>
+<img src="dvd_bounce.svg" width="600">
