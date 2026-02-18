@@ -1,4 +1,4 @@
 ## Hi there, I'm Ben
 🐃
 
-<img src="dvd_bounce.svg" width="600">
+<img src="dvd_bounce.svg" width="100%">
