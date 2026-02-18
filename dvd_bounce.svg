@@ -10,7 +10,7 @@
     </filter>
   </defs>
 
-  <g transform="scale(0.5)">
+  <g transform="scale(0.2)">
     <g filter="url(#glow)">
 
       <!-- Perfect bounce X -->
