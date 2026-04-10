@@ -1,1 +1,2 @@
 <img src="./dvd_bounce.svg" width="200%">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ben066789&hide_border=true&border_radius=0&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=200&card_height=200&ring=EB545400&fire=EB545400&currStreakLabel=EB545400&background=EB545400&dates=EB545400&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
